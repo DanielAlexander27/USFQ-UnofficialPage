@@ -67,14 +67,28 @@ aside {
 }
 
 .aside-article {
-    padding: 3%;
+    padding: 2.5%;
 }
 
-.aside-article__img img{
+.aside-article__img img {
     width: 100%;
 }
 
-.aside-article
+.aside-article h2 {
+    text-align: center;
+    font-size: 1.5em;  
+}
+
+.aside-article h2 a {
+    text-decoration: none;
+    color: #000;
+}
+
+.aside-article p {
+    text-align: justify;
+    padding-top: 3%;
+    font-size: 1.25em;
+}
 
 
 
