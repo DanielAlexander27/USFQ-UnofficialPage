@@ -59,6 +59,7 @@ aside {
     border: 10px;
     border-right: 3.5px solid #faf3ea;
     padding: 1.6em;
+    display: inline-block;
 }
 
 .aside-tittle {
@@ -90,9 +91,39 @@ aside {
     font-size: 1.25em;
 }
 
-
-
 /* aside */
+
+/* main */
+
+main {
+    display: inline-block;
+    height: 80vh;
+    width: 100vw;
+}
+
+.main-content {
+    display: inline-block;
+    width: 78vw;
+    text-align: center;
+    padding-left: 1%;
+}
+
+.main-content h2 {
+    font-size: 1.9em;
+}
+
+.main-content h3 {
+    font-family: Helvetica, sans-serif;
+    font-size: 1.6em;
+    font-weight: normal;
+    color: #54585d;
+}
+
+/* main */
+
+
+
+
 
 
 /* footer */
