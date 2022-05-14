@@ -104,21 +104,21 @@ main {
 .main-content {
     display: inline-block;
     width: 78vw;
-    height: 77.5vh;
+    height: 78.5vh;
     text-align: center;
     padding-left: 1%;
-
 }
 
 .main-content .main-content_tittle {
     font-size: 2.6em;
-    padding: 1%;
+    padding-bottom: 0.2%;
 }
 
 .main-content #artes-liberales {
     font-weight: 400;
     font-style: italic;
     font-size: 2.6em;
+    padding-top: 0.2%;
     
 }
 
@@ -145,6 +145,14 @@ main {
     padding-top: 0.4%;
     line-height: 140%;
     text-align: justify;
+}
+
+.space {
+    height: 0.1%;
+}
+
+.space p {
+    color:#faf3ea;
 }
 
 /* main */
