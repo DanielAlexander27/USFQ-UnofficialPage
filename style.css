@@ -104,19 +104,47 @@ main {
 .main-content {
     display: inline-block;
     width: 78vw;
+    height: 77.5vh;
     text-align: center;
     padding-left: 1%;
+
 }
 
-.main-content h2 {
-    font-size: 1.9em;
+.main-content .main-content_tittle {
+    font-size: 2.6em;
+    padding: 1%;
 }
 
-.main-content h3 {
+.main-content #artes-liberales {
+    font-weight: 400;
+    font-style: italic;
+    font-size: 2.6em;
+    
+}
+
+.main-content img {
+    width: 80%;
+}
+
+.mision-vision-artesLiberales {
+    text-align: left;
+    padding: 0.4% 10%;
+}
+
+.mision-vision-artesLiberales h4{
+    text-align: left;
+    font-size: 2em;
+    font-weight:500;
+}
+
+.mision-vision-artesLiberales p{
     font-family: Helvetica, sans-serif;
-    font-size: 1.6em;
+    font-size: 1.5em;
     font-weight: normal;
     color: #54585d;
+    padding-top: 0.4%;
+    line-height: 140%;
+    text-align: justify;
 }
 
 /* main */
