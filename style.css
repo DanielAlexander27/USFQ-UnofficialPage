@@ -157,11 +157,6 @@ main {
 
 /* main */
 
-
-
-
-
-
 /* footer */
 
 footer {
@@ -170,4 +165,12 @@ footer {
     background-color: red;
 }
 
+footer img {
+    fill: rgb(0, 174, 255) !important;
+}
+
+
+path {
+    fill: currentColor;
+}
 /* footer */
