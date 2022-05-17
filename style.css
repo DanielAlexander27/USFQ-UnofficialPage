@@ -38,7 +38,7 @@ img #logo {
     font-size: 1.6em;
     position: relative;
     color: #7e7a75;
-    left: 61.5%;
+    left: 61%;
 }
 
 .main-nav__item {
@@ -104,7 +104,7 @@ main {
 .main-content {
     display: inline-block;
     width: 78vw;
-    height: 78.5vh;
+    height: 74vh;
     text-align: center;
     padding-left: 1%;
 }
@@ -148,11 +148,12 @@ main {
 }
 
 .space {
-    height: 0.1%;
+    height: 0.001%;
 }
 
 .space p {
     color:#faf3ea;
+    height: 0.1%;
 }
 
 /* main */
@@ -162,7 +163,7 @@ main {
 footer {
     height: 8vh;
     width: 100vw;
-    background-color: red;
+    background-color: #231F20;
 }
 
 footer img {
