@@ -164,14 +164,29 @@ footer {
     height: 8vh;
     width: 100vw;
     background-color: #231F20;
+    display: flex;
+    align-items: center;
 }
 
-footer img {
-    fill: rgb(0, 174, 255) !important;
+.footer-logo {
+    width: 8%;
+    display: inline-block;
+    position: relative;
+    left: 2%;
 }
 
+.footer-nav {
+    display: inline-block;
+    position: relative;
+    left: 79.5%;
+}
 
-path {
-    fill: currentColor;
+.footer-nav__item {
+    list-style: none;
+    display: inline-block;
+}
+
+.footer-nav__item a img {
+    margin: 0px 4.1px;
 }
 /* footer */
