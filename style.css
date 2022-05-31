@@ -99,11 +99,12 @@ main {
     display: inline-block;
     height: 80vh;
     width: 100vw;
+    padding: 0% 5%;
 }
 
 .main-content {
     display: inline-block;
-    width: 78vw;
+    width: 68vw;
     height: 74vh;
     text-align: center;
     padding-left: 1%;
@@ -178,7 +179,7 @@ footer {
 .footer-nav {
     display: inline-block;
     position: relative;
-    left: 79.5%;
+    left: 79.8%;
 }
 
 .footer-nav__item {
