@@ -8,4 +8,4 @@ I am beginner with HTML & CSS, so I apologize if I made some mistakes. Even, the
 
 How the page have to look like:
 
-[![Unofficial USFQ Page](Imgur "Unofficial USFQ Page")](https://imgur.com/a/khaXpHg "Unofficial USFQ Page")
+![USFQ-UnofficialPage](https://github.com/DanielAlexander27/USFQ-UnofficialPage/blob/main/Result.png)
